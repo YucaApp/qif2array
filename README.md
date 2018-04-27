@@ -1,4 +1,4 @@
-Basic API Client
+QIF to Array
 ----------------
 
 Parse QIF file into array
